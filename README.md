@@ -7,7 +7,7 @@
 1. Clone and set up this reposiory.
 
 ```
-git clone
+git clone https://github.com/joyceiphone/DialogueAgent_ML.git
 cd DialogueAgent_ML
 ```
 
