@@ -1,6 +1,8 @@
 ## DialogueAgent_ML
 
 ## DATA
+We used CrossWOZ training data.
+https://github.com/thu-coai/CrossWOZ
 
 ## Set-up Steps
 
