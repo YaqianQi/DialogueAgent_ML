@@ -1,4 +1,8 @@
 ## DialogueAgent_ML
+- Chatbots robots supports Chinese dialouge/conversation 
+- Specialized in answer weather questions 
+- Have limited capacity for chitchat 
+
 
 ## DATA
 We used CrossWOZ training data.\
